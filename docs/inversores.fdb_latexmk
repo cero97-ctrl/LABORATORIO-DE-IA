@@ -1,7 +1,7 @@
 # Fdb version 4
-["pdflatex"] 1778334569.34046 "/home/cero/MEGA/VS_CODE_WORKSPACE/LABORATORIO-DE-IA/docs/inversores.tex" "inversores.pdf" "inversores" 1778334576.85218 0
+["pdflatex"] 1778335523.85634 "/home/cero/MEGA/VS_CODE_WORKSPACE/LABORATORIO-DE-IA/docs/inversores.tex" "inversores.pdf" "inversores" 1778335527.12881 0
   "/etc/texmf/web2c/texmf.cnf" 1754246095.34578 475 c0e671620eb5563b2130f56340a5fde8 ""
-  "/home/cero/MEGA/VS_CODE_WORKSPACE/LABORATORIO-DE-IA/docs/inversores.tex" 1778334566.87995 4482 c8ad08ce796340604c39355cdcd408a0 ""
+  "/home/cero/MEGA/VS_CODE_WORKSPACE/LABORATORIO-DE-IA/docs/inversores.tex" 1778335519.17903 4436 7864fc06eed9da205f27ec973f676ec8 ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm" 1136768653 1328 c834bbb027764024c09d3d2bf908b5f0 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmmi10.tfm" 1136768653 1528 abec98dbc43e172678c11b3b9031252a ""
@@ -81,9 +81,9 @@
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1754246131.98867 5472669 54eaf61a88b6b7896ebd0dac973cb29c ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1754246351 8211763 bcebfc983d877799c23bfb0bbf784be3 ""
   "anexo_caso_uso_cumana.pdf" 1778333834.04578 89725 0d63ccdc5faaacf3aa018c1dad7b0235 ""
-  "inversores.aux" 1778334573.99606 466 4f23f2cd489b89a176c9d42efc36d4f4 "pdflatex"
-  "inversores.out" 1778334573.64306 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "inversores.tex" 1778334566.87995 4482 c8ad08ce796340604c39355cdcd408a0 ""
+  "inversores.aux" 1778335526.85601 436 b0733b60c84ed9d0e5bfc1c4198bdbe2 "pdflatex"
+  "inversores.out" 1778335526.06001 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "inversores.tex" 1778335519.17903 4436 7864fc06eed9da205f27ec973f676ec8 ""
   (generated)
   "inversores.aux"
   "inversores.log"

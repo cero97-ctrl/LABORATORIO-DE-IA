@@ -1,7 +1,7 @@
 # Fdb version 4
-["pdflatex"] 1777140233.3654 "/home/cero/MEGA/VS_CODE_WORKSPACE/LABORATORIO-DE-IA/Mejoras_al_Plan_Hidrico_con_Tecnologia.tex" "Mejoras_al_Plan_Hidrico_con_Tecnologia.pdf" "Mejoras_al_Plan_Hidrico_con_Tecnologia" 1777140242.045 0
+["pdflatex"] 1777141500.67598 "/home/cero/MEGA/VS_CODE_WORKSPACE/LABORATORIO-DE-IA/Mejoras_al_Plan_Hidrico_con_Tecnologia.tex" "Mejoras_al_Plan_Hidrico_con_Tecnologia.pdf" "Mejoras_al_Plan_Hidrico_con_Tecnologia" 1777141501.92673 0
   "/etc/texmf/web2c/texmf.cnf" 1754246095.34578 475 c0e671620eb5563b2130f56340a5fde8 ""
-  "/home/cero/MEGA/VS_CODE_WORKSPACE/LABORATORIO-DE-IA/Mejoras_al_Plan_Hidrico_con_Tecnologia.tex" 1777139620.41089 4170 fadad5a290d539fc04d74ee639a62f6e ""
+  "/home/cero/MEGA/VS_CODE_WORKSPACE/LABORATORIO-DE-IA/Mejoras_al_Plan_Hidrico_con_Tecnologia.tex" 1777141500.15131 4301 6c644fea271b3cc2927ea6faaf9d8e1d ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1136768653 1324 c910af8c371558dc20f2d7822f66fe64 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm" 1136768653 1524 4414a8315f39513458b80dfc63bff03a ""
@@ -18,7 +18,6 @@
   "/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb" 1248133631 32080 340ef9bf63678554ee606688e7b5339d ""
   "/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb" 1248133631 32722 d7379af29a190c3f453aba36302ff5a9 ""
   "/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb" 1248133631 32362 179c33bbf43f19adbb3825bb4e36e57a ""
-  "/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb" 1248133631 32726 0a1aea6fcd6468ee2cf64d891f5c43c8 ""
   "/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb" 1248133631 36118 fad905eba93cff5bce1e185fe980a177 ""
   "/usr/share/texlive/texmf-dist/tex/generic/atbegshi/atbegshi.sty" 1575674566 24708 5584a51a7101caf7e6bbf1fc27d8f7b1 ""
   "/usr/share/texlive/texmf-dist/tex/generic/babel-spanish/spanish.ldf" 1622145181 26965 3b6d1655ad716f98e788b1fb9f2e87b8 ""
@@ -61,14 +60,16 @@
   "/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def" 1704491087 30006 57b07afb710ee2f649c65cfbafda39c1 ""
   "/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty" 1576624809 9878 9e94e8fa600d95f9c7731bb21dfb67a4 ""
   "/usr/share/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty" 1657483315 9714 ba3194bd52c8499b3f1e3eb91d409670 ""
+  "/usr/share/texlive/texmf-dist/tex/latex/tools/array.sty" 1698869629 12667 e4b5eb11e4b7239e6c8a52bbe074a6c6 ""
+  "/usr/share/texlive/texmf-dist/tex/latex/tools/tabularx.sty" 1698869629 7147 d45559f8a31b8c53ada0640516660003 ""
   "/usr/share/texlive/texmf-dist/tex/latex/url/url.sty" 1388531844 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "/usr/share/texlive/texmf-dist/web2c/texmf.cnf" 1707919699 40399 f2c302f7d2af602abb742093540a5834 ""
   "/usr/share/texmf/web2c/texmf.cnf" 1707919699 40399 f2c302f7d2af602abb742093540a5834 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1754246131.98867 5472669 54eaf61a88b6b7896ebd0dac973cb29c ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1754246351 8211763 bcebfc983d877799c23bfb0bbf784be3 ""
-  "Mejoras_al_Plan_Hidrico_con_Tecnologia.aux" 1777140241.3272 1117 0ab8b27baaaf0799da00ad88c1725b27 "pdflatex"
-  "Mejoras_al_Plan_Hidrico_con_Tecnologia.out" 1777140241.3402 1484 ad984478fe23ae16a22431188f128b14 "pdflatex"
-  "Mejoras_al_Plan_Hidrico_con_Tecnologia.tex" 1777139620.41089 4170 fadad5a290d539fc04d74ee639a62f6e ""
+  "Mejoras_al_Plan_Hidrico_con_Tecnologia.aux" 1777141501.78916 1118 cf8bfe18ebbacd32efce93a940d8888c "pdflatex"
+  "Mejoras_al_Plan_Hidrico_con_Tecnologia.out" 1777141501.79116 1476 bcb950a323c9a05124dc4cf15ffbb70e "pdflatex"
+  "Mejoras_al_Plan_Hidrico_con_Tecnologia.tex" 1777141500.15131 4301 6c644fea271b3cc2927ea6faaf9d8e1d ""
   (generated)
   "Mejoras_al_Plan_Hidrico_con_Tecnologia.aux"
   "Mejoras_al_Plan_Hidrico_con_Tecnologia.log"

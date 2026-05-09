@@ -5,6 +5,7 @@
 \geometry{margin=1in}
 \usepackage{booktabs}
 \usepackage{hyperref}
+\usepackage{tabularx}
 \usepackage{enumitem}
 
 \title{Propuestas Tecnológicas para la Optimización del Servicio de Agua en Cumaná}
@@ -18,20 +19,20 @@
 \section*{Introducción}
 Basado en el análisis realizado por el sistema RAG y la información adicional presente en el blog, el plan propuesto para optimizar el servicio de agua en Cumaná [cite: 3, 10, 49] es una base sólida, pero puede fortalecerse significativamente con acciones más específicas y tecnológicas[cite: 50].
 
-\section{Atención Prioritaria a Infraestructura Crítica (Túnel de Guamacán)}
-El plan general menciona la "inversión en infraestructura" [cite: 4, 51], pero los datos del blog revelan un problema crítico específico: el colapso del techo y sedimentos en el Túnel de trasvase Guamacán[cite: 38, 51].
+\section{Atención Prioritaria a Infraestructura Crítica\\(Túnel de Guamacán)}
+El plan general menciona la 'inversión en infraestructura' [cite: 4, 51], pero los datos del blog revelan un problema crítico específico: el colapso del techo y sedimentos en el Túnel de trasvase Guamacán[cite: 38, 51].
 
 \begin{itemize}
     \item \textbf{Mejora:} El plan debe incluir una fase de emergencia dedicada exclusivamente a la remoción de escombros y refuerzo estructural de este túnel[cite: 38, 52].
-    \item \textbf{Impacto:} Sin resolver esta "obstrucción", cualquier mejora en la red de distribución urbana será ineficaz, ya que el flujo desde el embalse Turimiquire seguirá comprometido[cite: 38, 53].
+    \item \textbf{Impacto:} Sin resolver esta 'obstrucción', cualquier mejora en la red de distribución urbana será ineficaz, ya que el flujo desde el embalse Turimiquire seguirá comprometido[cite: 38, 53].
 \end{itemize}
 
 \section{Política de Comunicación y Transparencia contra la Desinformación}
 Un comentario destacado en la fuente señala que la desinformación prevalece en la crisis actual[cite: 37, 54].
 
 \begin{itemize}
-    \item \textbf{Mejora:} Integrar una Plataforma de Datos Abiertos en tiempo real. No basta con "educación ciudadana" [cite: 6, 55]; se requiere que HIDROCARIBE y el gobierno local [cite: 8] publiquen cronogramas de bombeo y estados de reparación verificables[cite: 56].
-    \item \textbf{Impacto:} Esto optimiza la "política comunicacional" sugerida por la comunidad para reducir la incertidumbre[cite: 37, 57].
+    \item \textbf{Mejora:} Integrar una Plataforma de Datos Abiertos en tiempo real. No basta con 'educación ciudadana' [cite: 6, 55]; se requiere que HIDROCARIBE y el gobierno local [cite: 8] publiquen cronogramas de bombeo y estados de reparación verificables[cite: 56].
+    \item \textbf{Impacto:} Esto optimiza la 'política comunicacional' sugerida por la comunidad para reducir la incertidumbre[cite: 37, 57].
 \end{itemize}
 
 \section{Implementación de IA para Mantenimiento Predictivo}
@@ -39,11 +40,11 @@ El sistema RAG actual utiliza modelos como \textit{llama3.1} y \textit{nomic-emb
 
 \begin{itemize}
     \item \textbf{Mejora:} Utilizar la potencia de procesamiento de las GPUs NVIDIA T4 [cite: 27, 30, 59] para procesar datos de sensores en la red de tuberías.
-    \item \textbf{Impacto:} En lugar de solo "detectar pérdidas" [cite: 3, 60], el sistema podría predecir fallas estructurales antes de que ocurran rupturas mayores, basándose en patrones de presión y flujo[cite: 30, 60].
+    \item \textbf{Impacto:} En lugar de solo 'detectar pérdidas' [cite: 3, 60], el sistema podría predecir fallas estructurales antes de que ocurran rupturas mayores, basándose en patrones de presión y flujo[cite: 30, 60].
 \end{itemize}
 
 \section{Recuperación de las ``Arterias Olvidadas'' (Caños Urbanos)}
-El plan menciona proteger el río Manzanares y los caños [cite: 5, 61], pero los documentos consultados aluden a ellos como "arterias olvidadas"[cite: 11, 61].
+El plan menciona proteger el río Manzanares y los caños [cite: 5, 61], pero los documentos consultados aluden a ellos como 'arterias olvidadas'[cite: 11, 61].
 
 \begin{itemize}
     \item \textbf{Mejora:} Transformar los caños urbanos de simples receptores de aguas servidas a sistemas de drenaje ecológico y recolección de aguas de lluvia[cite: 62].
@@ -55,14 +56,14 @@ El plan menciona proteger el río Manzanares y los caños [cite: 5, 61], pero lo
 
 \begin{table}[h!]
 \centering
-\begin{tabular}{@{}lll@{}}
+\begin{tabularx}{\textwidth}{@{} >{\raggedright\arraybackslash}X >{\raggedright\arraybackslash}X >{\raggedright\arraybackslash}X @{}}
 \toprule
 \textbf{Área del Plan Original} & \textbf{Mejora Propuesta} & \textbf{Recurso Identificado} \\ \midrule
 Infraestructura [cite: 4, 65] & Reparación Túnel Guamacán & Video de obstrucción [cite: 38, 66] \\
 Conservación [cite: 6, 66] & Portal de Transparencia & Comentario comunidad [cite: 37, 67] \\
 Investigación [cite: 7, 67] & Mantenimiento Predictivo IA & Uso de GPU T4 y RAG [cite: 25, 27, 68] \\
 Fuentes Naturales [cite: 5, 68] & Saneamiento de Caños & ``Arterias olvidadas'' [cite: 11, 69] \\ \bottomrule
-\end{tabular}
+\end{tabularx}
 \caption{Cuadro comparativo de mejoras al plan hídrico.}
 \end{table}
 
